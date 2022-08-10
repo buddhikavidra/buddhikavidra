@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buddhi kavindra</h1>
 <h3 align="center">Life long learner</h3>
-
+<img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddhikavidra" alt="buddhikavidra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/buddhi_kavindra" target="blank"><img src="https://img.shields.io/twitter/follow/buddhi_kavindra?logo=twitter&style=for-the-badge" alt="buddhi_kavindra" /></a> </p>
