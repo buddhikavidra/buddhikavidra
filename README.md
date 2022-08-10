@@ -4,8 +4,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-
-
+<h3 align="center"> </h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddhikavidra" alt="buddhikavidra" /></a> </p>
 
