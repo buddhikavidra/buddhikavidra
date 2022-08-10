@@ -18,6 +18,10 @@
 <a href="https://stackoverflow.com/users/9013150/buddhi-kavindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9013150/buddhi-kavindra" height="30" width="40" /></a>
 <a href="https://medium.com/buddhikavindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="buddhikavindra" height="30" width="40" /></a>
 <a href="https://discord.gg/buddhi#5375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="buddhi#5375" height="30" width="40" /></a>
+
+<a href="https://www.fiverr.com/buddhikavindra0" target="blank"><img align="center" src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/favicon.52df53a.ico" alt="buddhi" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
