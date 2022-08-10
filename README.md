@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/buddhi_kavindra" target="blank"><img src="https://img.shields.io/twitter/follow/buddhi_kavindra?logo=twitter&style=for-the-badge" alt="buddhi_kavindra" /></a> </p>
 
+
+<img align="left" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" style="max-width: 100%; display: inline-block; padding-bottom:10%;" data-target="animated-image.originalImage">
+
+
 - 🌱 I’m currently learning **go**
 
 - 💬 Ask me about **java, python,Quality engineering**
