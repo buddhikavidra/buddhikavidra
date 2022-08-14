@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buddhi kavindra</h1>
-<h3 align="center">Life long learner</h3>
+<h3 align="center">Lifelong learner</h3>
 
 
 
