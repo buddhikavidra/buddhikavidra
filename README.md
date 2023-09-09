@@ -37,7 +37,8 @@
 </p>
   
 <p>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikavidra&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+    <a href="https://github.com/buddhikavidra/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikavidra&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
 </p>
 
 <p>&nbsp;
