@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **go**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **java, python,Quality engineering**
 
